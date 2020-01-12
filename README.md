@@ -4,7 +4,7 @@
 
 > A Magic ui for react and react nextjs to make your website s
 
-[![NPM](https://img.shields.io/npm/v/dezling-ui.svg)](https://www.npmjs.com/package/dezling-ui) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)![Code style](https://img.shields.io/badge/code_style-prettier-ff69b4.svg)
+[![NPM](https://img.shields.io/npm/v/dezling-ui.svg)](https://www.npmjs.com/package/dezling-ui)![![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)![Code style](https://img.shields.io/badge/code_style-prettier-ff69b4.svg)
 
 ## Install
 
@@ -65,4 +65,4 @@ Recently Updated? Please read the changelog.
 
 ## License
 
-This project is licensed under the terms of the [MIT license](https://github.com/RiponAli/dezling-ui/#license).
+This project is licensed under the terms of the [MIT license](https://github.com/dezlingroof/dezling-ui/#license).
