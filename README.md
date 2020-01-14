@@ -29,7 +29,7 @@ import "dezling-ui/src/styles.css";
 
 ```jsx
 import React, { Component } from 'react'
-import {Wrapper,Row,Col, Button} from 'cloud-ui'
+import {Wrapper,Row,Col, Button} from 'dezling-ui'
 
 class Example extends Component {
   render () {
